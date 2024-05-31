@@ -49,6 +49,7 @@ function OpenCarDoor(data)
             useWhileDead = false,
             canCancel = true,
             disable = {
+                move = true,
                 car = true,
             },
             anim = {
