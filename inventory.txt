@@ -7,4 +7,3 @@
 		limit = 5,
 		stack = false,
 	},
-https://discord.gg/bq69BfWDnH
