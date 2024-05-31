@@ -1,0 +1,10 @@
+"\ox_inventory\data\items.lua"
+	['lockpick'] = {
+		label = 'Wytrych',
+		description = 'Narzędzie służące do otwierania zamków bez użycia klucza.',
+		weight = 160,
+		durability = 100,
+		limit = 5,
+		stack = false,
+	},
+https://discord.gg/bq69BfWDnH
