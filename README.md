@@ -3,7 +3,7 @@
 > Przyjemny skrypt na otwieranie zamknietych pojazdów!
 
 > [!NOTE]
-> # [Discord]()  ~~ Support
+> # [Discord](https://discord.gg/bq69BfWDnH)  ~~ Support
 > # [Preview]()
 
 > [!IMPORTANT]
