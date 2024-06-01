@@ -4,6 +4,5 @@
 		description = 'Narzędzie służące do otwierania zamków bez użycia klucza.',
 		weight = 160,
 		durability = 100,
-		limit = 5,
 		stack = false,
 	},
